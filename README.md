@@ -1,1 +1,1 @@
-# Stack-UCB-Git
+# StackUCB-Git
